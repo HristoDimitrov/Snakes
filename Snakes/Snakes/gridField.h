@@ -19,5 +19,10 @@ public:
 	void setColour(string newColour);
 	string getColour();
 
+	void setMovable(bool newMovable);
+	bool getMovable();
+
+
+
 };
 
